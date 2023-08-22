@@ -5,11 +5,13 @@ import { Provider } from 'react-redux';
 import App from './App';
 import store from './redux/store';
 
-ReactDOM.render(
+const rootElement = document.getElementById('root');
+const root = ReactDOM.createRoot(rootElement);
+
+root.render(
   <Provider store={store}>
-    <App id="root" />
+    <App />
   </Provider>,
-  document.getElementById('root')
 );
 
 // Comment out or remove the following line:
