@@ -59,7 +59,7 @@ For more information on the importance of a professional README for your reposit
 
 # 📖 [Hello rails and react] <a name="about-project"></a>
 
-**[Hello rails and react]** is just set up app
+**[Hello rails and react]** is a front end for the hello-rails project
 
 ## 🛠 Built With <a name="built-with"></a>
 
