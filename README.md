@@ -93,7 +93,7 @@ For more information on the importance of a professional README for your reposit
 
 ### Key Features <a name="key-features"></a>
 
-- it is just a setup
+- it is just a backend project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,8 +110,6 @@ For more information on the importance of a professional README for your reposit
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -204,8 +202,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Abdullah AL-khureif**
 
 - GitHub: [@githubhandle](https://github.com/OnlyUnknown)
@@ -244,7 +240,6 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank...
 
